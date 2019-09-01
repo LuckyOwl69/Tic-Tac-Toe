@@ -1,3 +1,13 @@
 ﻿  main.cpp
-c:\users\cwait\onedrive\documents\uni\year 1\trimester 2\ads103\assessments\4\tic tac toe\game\main\main\main.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\cwait\onedrive\documents\uni\year 1\trimester 2\ads103\assessments\4\tic tac toe\game\main\main\main.cpp(351): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cwait\onedrive\documents\uni\year 1\trimester 2\ads103\assessments\4\tic tac toe\game\main\main\main.cpp(780): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+c:\users\cwait\onedrive\documents\uni\year 1\trimester 2\ads103\assessments\4\tic tac toe\game\main\main\main.cpp(1057): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
   main.vcxproj -> C:\Users\cwait\OneDrive\Documents\Uni\Year 1\Trimester 2\ADS103\Assessments\4\Tic Tac Toe\Game\main\Debug\TicTacToe.exe
